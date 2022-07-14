@@ -4,6 +4,8 @@
 **web3revo/web3revo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Animals don't sucide, they only killed by external forces like natural disasters or predators.
+And we are not animals, we evolve.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
